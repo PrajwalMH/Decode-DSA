@@ -11,6 +11,7 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
+| [3903-smallest-stable-index-i](https://github.com/PrajwalMH/Decode-DSA/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,4 +20,8 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/PrajwalMH/Decode-DSA/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
