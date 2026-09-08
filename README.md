@@ -6,6 +6,7 @@ Solve all DSA until you die.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/PrajwalMH/Decode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PrajwalMH/Decode-DSA/tree/master/0009-palindrome-number) |
 ## Array
 |  |
