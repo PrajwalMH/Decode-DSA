@@ -18,6 +18,7 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
+| [0344-reverse-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +37,7 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrajwalMH/Decode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0344-reverse-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
