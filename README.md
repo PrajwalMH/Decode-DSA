@@ -8,6 +8,7 @@ Solve all DSA until you die.
 | ------- |
 | [0007-reverse-integer](https://github.com/PrajwalMH/Decode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PrajwalMH/Decode-DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/PrajwalMH/Decode-DSA/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PrajwalMH/Decode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [3870-count-commas-in-range](https://github.com/PrajwalMH/Decode-DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/PrajwalMH/Decode-DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -85,4 +86,12 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrajwalMH/Decode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PrajwalMH/Decode-DSA/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/PrajwalMH/Decode-DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
