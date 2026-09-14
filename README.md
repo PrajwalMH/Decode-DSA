@@ -10,6 +10,7 @@ Solve all DSA until you die.
 | [0009-palindrome-number](https://github.com/PrajwalMH/Decode-DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/PrajwalMH/Decode-DSA/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PrajwalMH/Decode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0836-rectangle-overlap](https://github.com/PrajwalMH/Decode-DSA/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/PrajwalMH/Decode-DSA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/PrajwalMH/Decode-DSA/tree/master/3871-count-commas-in-range-ii) |
 ## Array
@@ -99,4 +100,8 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/1929-concatenation-of-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/PrajwalMH/Decode-DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
