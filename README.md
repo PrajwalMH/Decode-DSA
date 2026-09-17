@@ -19,6 +19,7 @@ Solve all DSA until you die.
 | [0014-longest-common-prefix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
+| [0134-gas-station](https://github.com/PrajwalMH/Decode-DSA/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/PrajwalMH/Decode-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PrajwalMH/Decode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PrajwalMH/Decode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -107,4 +108,8 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/PrajwalMH/Decode-DSA/tree/master/0836-rectangle-overlap) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/PrajwalMH/Decode-DSA/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
