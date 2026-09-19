@@ -17,6 +17,7 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/PrajwalMH/Decode-DSA/tree/master/0134-gas-station) |
@@ -29,6 +30,7 @@ Solve all DSA until you die.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0344-reverse-string) |
