@@ -20,6 +20,7 @@ Solve all DSA until you die.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PrajwalMH/Decode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/PrajwalMH/Decode-DSA/tree/master/0134-gas-station) |
 | [0217-contains-duplicate](https://github.com/PrajwalMH/Decode-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PrajwalMH/Decode-DSA/tree/master/0238-product-of-array-except-self) |
@@ -98,6 +99,7 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/PrajwalMH/Decode-DSA/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/PrajwalMH/Decode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
