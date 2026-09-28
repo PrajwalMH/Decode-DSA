@@ -37,6 +37,7 @@ Solve all DSA until you die.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0344-reverse-string) |
 ## Sorting
@@ -64,6 +65,7 @@ Solve all DSA until you die.
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrajwalMH/Decode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/PrajwalMH/Decode-DSA/tree/master/0058-length-of-last-word) |
+| [0151-reverse-words-in-a-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
