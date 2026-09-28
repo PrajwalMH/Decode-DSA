@@ -9,6 +9,7 @@ Solve all DSA until you die.
 | [0007-reverse-integer](https://github.com/PrajwalMH/Decode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PrajwalMH/Decode-DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/PrajwalMH/Decode-DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PrajwalMH/Decode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0836-rectangle-overlap](https://github.com/PrajwalMH/Decode-DSA/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/PrajwalMH/Decode-DSA/tree/master/3870-count-commas-in-range) |
@@ -23,6 +24,7 @@ Solve all DSA until you die.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrajwalMH/Decode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/PrajwalMH/Decode-DSA/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PrajwalMH/Decode-DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/PrajwalMH/Decode-DSA/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PrajwalMH/Decode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -35,6 +37,7 @@ Solve all DSA until you die.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
