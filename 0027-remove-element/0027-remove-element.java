@@ -5,7 +5,6 @@ class Solution {
             if(nums[i]!=val){
                 nums[index]=nums[i];
                 index++;
-            
             }
         }
         return index;
