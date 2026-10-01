@@ -23,6 +23,7 @@ Solve all DSA until you die.
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrajwalMH/Decode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/PrajwalMH/Decode-DSA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/PrajwalMH/Decode-DSA/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/PrajwalMH/Decode-DSA/tree/master/0217-contains-duplicate) |
@@ -127,6 +128,7 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/PrajwalMH/Decode-DSA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/PrajwalMH/Decode-DSA/tree/master/0135-candy) |
 ## Divide and Conquer
 |  |
 | ------- |
