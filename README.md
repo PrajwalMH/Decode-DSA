@@ -20,6 +20,7 @@ Solve all DSA until you die.
 | [0014-longest-common-prefix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/PrajwalMH/Decode-DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrajwalMH/Decode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/PrajwalMH/Decode-DSA/tree/master/0134-gas-station) |
@@ -38,6 +39,7 @@ Solve all DSA until you die.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/PrajwalMH/Decode-DSA/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0189-rotate-array) |
@@ -110,6 +112,7 @@ Solve all DSA until you die.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/PrajwalMH/Decode-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/PrajwalMH/Decode-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrajwalMH/Decode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
@@ -145,4 +148,12 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [0274-h-index](https://github.com/PrajwalMH/Decode-DSA/tree/master/0274-h-index) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PrajwalMH/Decode-DSA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/PrajwalMH/Decode-DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
