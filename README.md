@@ -21,6 +21,7 @@ Solve all DSA until you die.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/PrajwalMH/Decode-DSA/tree/master/0042-trapping-rain-water) |
+| [0068-text-justification](https://github.com/PrajwalMH/Decode-DSA/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrajwalMH/Decode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/PrajwalMH/Decode-DSA/tree/master/0134-gas-station) |
@@ -71,6 +72,7 @@ Solve all DSA until you die.
 | [0006-zigzag-conversion](https://github.com/PrajwalMH/Decode-DSA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/PrajwalMH/Decode-DSA/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/PrajwalMH/Decode-DSA/tree/master/0068-text-justification) |
 | [0151-reverse-words-in-a-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0344-reverse-string) |
 ## Sliding Window
@@ -122,6 +124,7 @@ Solve all DSA until you die.
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/PrajwalMH/Decode-DSA/tree/master/0068-text-justification) |
 | [1929-concatenation-of-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/1929-concatenation-of-array) |
 ## Geometry
 |  |
