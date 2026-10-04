@@ -46,6 +46,7 @@ Solve all DSA until you die.
 | [0151-reverse-words-in-a-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/PrajwalMH/Decode-DSA/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Solve all DSA until you die.
 | [0125-valid-palindrome](https://github.com/PrajwalMH/Decode-DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/PrajwalMH/Decode-DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/PrajwalMH/Decode-DSA/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Solve all DSA until you die.
 | [0042-trapping-rain-water](https://github.com/PrajwalMH/Decode-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/PrajwalMH/Decode-DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrajwalMH/Decode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/PrajwalMH/Decode-DSA/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
 | ------- |
