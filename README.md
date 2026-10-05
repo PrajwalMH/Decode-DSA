@@ -17,6 +17,7 @@ Solve all DSA until you die.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrajwalMH/Decode-DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0027-remove-element) |
@@ -39,6 +40,7 @@ Solve all DSA until you die.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrajwalMH/Decode-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/PrajwalMH/Decode-DSA/tree/master/0042-trapping-rain-water) |
@@ -140,6 +142,7 @@ Solve all DSA until you die.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/PrajwalMH/Decode-DSA/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/PrajwalMH/Decode-DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/PrajwalMH/Decode-DSA/tree/master/0135-candy) |
 ## Divide and Conquer
