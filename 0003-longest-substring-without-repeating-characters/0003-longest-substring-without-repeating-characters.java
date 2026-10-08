@@ -1,20 +1,26 @@
-class Solution {
-    public int lengthOfLongestSubstring(String s) {
-        int a_pointer=0;
-        int b_pointer=0;
-        int max=0;
-        HashSet<Character> hash_set= new HashSet();
+public class Solution {
 
-        while(b_pointer<s.length()){
-            if(!hash_set.contains(s.charAt(b_pointer))){
-                hash_set.add(s.charAt(b_pointer));
-                b_pointer++;
-                max=Math.max(hash_set.size(),max);
-            }else{
-                hash_set.remove(s.charAt(a_pointer));
-                a_pointer++; 
+    public int lengthOfLongestSubstring(String s) {
+        Map<Character, Integer> chars = new HashMap();
+
+        int left = 0;
+        int right = 0;
+
+        int res = 0;
+        while (right < s.length()) {
+            char r = s.charAt(right);
+            chars.put(r, chars.getOrDefault(r, 0) + 1);
+
+            while (chars.get(r) > 1) {
+                char l = s.charAt(left);
+                chars.put(l, chars.get(l) - 1);
+                left++;
             }
+
+            res = Math.max(res, right - left + 1);
+
+            right++;
         }
-        return max;
+        return res;
     }
 }
