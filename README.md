@@ -17,6 +17,7 @@ Solve all DSA until you die.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrajwalMH/Decode-DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/PrajwalMH/Decode-DSA/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/PrajwalMH/Decode-DSA/tree/master/0015-3sum) |
@@ -72,6 +73,7 @@ Solve all DSA until you die.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrajwalMH/Decode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrajwalMH/Decode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrajwalMH/Decode-DSA/tree/master/0217-contains-duplicate) |
