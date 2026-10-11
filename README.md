@@ -75,6 +75,7 @@ Solve all DSA until you die.
 | ------- |
 | [0001-two-sum](https://github.com/PrajwalMH/Decode-DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrajwalMH/Decode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/PrajwalMH/Decode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrajwalMH/Decode-DSA/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PrajwalMH/Decode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -85,6 +86,7 @@ Solve all DSA until you die.
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrajwalMH/Decode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/PrajwalMH/Decode-DSA/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0014-longest-common-prefix) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/PrajwalMH/Decode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/PrajwalMH/Decode-DSA/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/PrajwalMH/Decode-DSA/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/PrajwalMH/Decode-DSA/tree/master/0125-valid-palindrome) |
@@ -95,6 +97,7 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrajwalMH/Decode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/PrajwalMH/Decode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/PrajwalMH/Decode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Trie
 |  |
