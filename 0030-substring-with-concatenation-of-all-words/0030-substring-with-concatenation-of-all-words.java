@@ -10,8 +10,7 @@ class Solution {
         int wordsUsed = 0;
         boolean excessWord = false;
 
-        // Do the same iteration pattern as the previous approach - iterate
-        // word_length at a time, and at each iteration we focus on one word
+        
         for (int right = left; right <= n - wordLength; right += wordLength) {
             String sub = s.substring(right, right + wordLength);
             if (!wordCount.containsKey(sub)) {
