@@ -25,6 +25,7 @@ Solve all DSA until you die.
 | [0027-remove-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/PrajwalMH/Decode-DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/PrajwalMH/Decode-DSA/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/PrajwalMH/Decode-DSA/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrajwalMH/Decode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -151,6 +152,7 @@ Solve all DSA until you die.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/PrajwalMH/Decode-DSA/tree/master/0068-text-justification) |
 | [1929-concatenation-of-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/1929-concatenation-of-array) |
 ## Geometry
@@ -197,4 +199,5 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/PrajwalMH/Decode-DSA/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
