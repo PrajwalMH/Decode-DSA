@@ -8,6 +8,7 @@ Solve all DSA until you die.
 | ------- |
 | [0007-reverse-integer](https://github.com/PrajwalMH/Decode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/PrajwalMH/Decode-DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/PrajwalMH/Decode-DSA/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/PrajwalMH/Decode-DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PrajwalMH/Decode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -25,6 +26,7 @@ Solve all DSA until you die.
 | [0027-remove-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/PrajwalMH/Decode-DSA/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/PrajwalMH/Decode-DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/PrajwalMH/Decode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/PrajwalMH/Decode-DSA/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
@@ -199,5 +201,6 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/PrajwalMH/Decode-DSA/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/PrajwalMH/Decode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
