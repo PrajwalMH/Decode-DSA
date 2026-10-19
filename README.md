@@ -29,6 +29,7 @@ Solve all DSA until you die.
 | [0048-rotate-image](https://github.com/PrajwalMH/Decode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/PrajwalMH/Decode-DSA/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/PrajwalMH/Decode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrajwalMH/Decode-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrajwalMH/Decode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -81,6 +82,7 @@ Solve all DSA until you die.
 | [0003-longest-substring-without-repeating-characters](https://github.com/PrajwalMH/Decode-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/PrajwalMH/Decode-DSA/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/PrajwalMH/Decode-DSA/tree/master/0036-valid-sudoku) |
+| [0073-set-matrix-zeroes](https://github.com/PrajwalMH/Decode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/PrajwalMH/Decode-DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrajwalMH/Decode-DSA/tree/master/0217-contains-duplicate) |
@@ -203,4 +205,5 @@ Solve all DSA until you die.
 | [0036-valid-sudoku](https://github.com/PrajwalMH/Decode-DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/PrajwalMH/Decode-DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/PrajwalMH/Decode-DSA/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
