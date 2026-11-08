@@ -30,6 +30,7 @@ Solve all DSA until you die.
 | [0048-rotate-image](https://github.com/PrajwalMH/Decode-DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/PrajwalMH/Decode-DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/PrajwalMH/Decode-DSA/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/PrajwalMH/Decode-DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/PrajwalMH/Decode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
@@ -73,6 +74,7 @@ Solve all DSA until you die.
 | ------- |
 | [0015-3sum](https://github.com/PrajwalMH/Decode-DSA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/PrajwalMH/Decode-DSA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/PrajwalMH/Decode-DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/PrajwalMH/Decode-DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/PrajwalMH/Decode-DSA/tree/master/0217-contains-duplicate) |
@@ -240,4 +242,8 @@ Solve all DSA until you die.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/PrajwalMH/Decode-DSA/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/PrajwalMH/Decode-DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
