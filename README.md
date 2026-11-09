@@ -31,6 +31,7 @@ Solve all DSA until you die.
 | [0049-group-anagrams](https://github.com/PrajwalMH/Decode-DSA/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/PrajwalMH/Decode-DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/PrajwalMH/Decode-DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/PrajwalMH/Decode-DSA/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/PrajwalMH/Decode-DSA/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/PrajwalMH/Decode-DSA/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/0088-merge-sorted-array) |
