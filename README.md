@@ -51,6 +51,7 @@ Solve all DSA until you die.
 | [0274-h-index](https://github.com/PrajwalMH/Decode-DSA/tree/master/0274-h-index) |
 | [0289-game-of-life](https://github.com/PrajwalMH/Decode-DSA/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/PrajwalMH/Decode-DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PrajwalMH/Decode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1929-concatenation-of-array](https://github.com/PrajwalMH/Decode-DSA/tree/master/1929-concatenation-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/PrajwalMH/Decode-DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/PrajwalMH/Decode-DSA/tree/master/3903-smallest-stable-index-i) |
@@ -81,6 +82,7 @@ Solve all DSA until you die.
 | [0217-contains-duplicate](https://github.com/PrajwalMH/Decode-DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PrajwalMH/Decode-DSA/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/PrajwalMH/Decode-DSA/tree/master/0274-h-index) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PrajwalMH/Decode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -197,6 +199,7 @@ Solve all DSA until you die.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/PrajwalMH/Decode-DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/PrajwalMH/Decode-DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/PrajwalMH/Decode-DSA/tree/master/0135-candy) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/PrajwalMH/Decode-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Divide and Conquer
 |  |
 | ------- |
